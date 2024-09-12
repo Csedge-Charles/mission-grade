@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/styles/homepage.css">
+</head>
+<body style="background-color: rgb(254, 253, 246);">
+    <div id="head">
+        <h1 id="headtext">Grade Pro</h1>
+    </div>
+    <img src="https://us.123rf.com/450wm/vecstock/vecstock2105/vecstock210500735/168536414-molecules-and-chemical-flasks.jpg?ver=6" width="450px" height="600px" id="image_calc">
+    <img src="https://previews.123rf.com/images/captainvector/captainvector1508/captainvector150802094/43300803-calculus-textbook.jpg" width="450px" height="600px" id="image_gpa">
+    
+    <form action="/" method="POST">
+        <input type="submit" name="gradegpa" value="Chemistry" id="calc">
+        <input type="submit" name="gradegpa" value="Chemistry" id="calc2">
+        <input type="submit" name="gradegpa" value="PreCalculus" id="calculate">
+        <input type="submit" name="gradegpa" value="PreCalculus" id="calculate2">
+        
+        {% if sign == False %}
+        <div style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" id="greeting">
+            <p style="font-size: 20px;" id="welcome">Welcome</p>
+            <p style="font-size: 20px;" id="user">{{ user }}</p>
+        </div>
+        {% endif %}
+    </form>
+</body>
+</html>
+
+
+

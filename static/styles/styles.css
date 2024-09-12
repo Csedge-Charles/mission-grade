@@ -1,0 +1,185 @@
+
+#test{
+    transform: translate(50px, -52px);
+    font-size: 20px;
+}
+
+
+#head{
+    display: flex;
+    background-color: rgb(255, 241, 224);
+    border: 0px;
+}
+
+#labs{
+        transform: translate(50px, -87px);
+        font-size: 20px;
+}
+#homework{
+    transform: translate(25px, -130px);
+    font-size: 20px;
+}
+
+
+#headtext{
+    transform: translate(430px, 0px);
+}
+
+
+#back{
+    transform: translate(30px, -1790px);
+    width: 80px;
+    background-color: bisque;
+    border-color: bisque;
+}
+
+
+#calc{
+    width: 200px;
+    transform: translate(820px, -1795px);
+    height:50px;
+    background-color: bisque;
+    border-color: bisque;
+}
+
+
+
+
+#calculate{
+    width: 200px;
+    transform: translate(924px, -1795px);
+    height:50px;
+    background-color: bisque;
+    border-color: bisque;
+}
+
+
+#inputbackground{
+    background-color:beige;
+    height: 1200px;
+    width: 500px;
+    transform: translate(600px, 120px);
+    
+}
+
+#Titletext{
+    color:rgb(0, 0, 0);
+    transform: translate(750px, -1050px);
+}
+.firstrow{
+    height:30px;
+    width:150px;
+    border-color: black;
+    transform: translate(160px);
+
+}
+
+.secondrow{
+    height:30px;
+    width:150px;
+    border-color: rgb(0, 0, 0);
+    transform: translate(0%, 50px);
+    transform: translate(160px, -40px);
+
+}
+
+.thirdrow{
+    height:30px;
+    width:150px;
+    border-color: black;
+    transform: translate(160px, -80px);
+
+}
+
+.fourthrow{
+    height:30px;
+    width:150px;
+    border-color: black;
+    transform: translate(0%, 60%);
+    border-radius: 5%;
+}
+
+.fifthrow{
+    height:30px;
+    width:150px;
+    border-color: black;
+    transform: translate(0%, 80%);
+
+    border-radius: 5%;
+}
+
+.sixthrow{
+    height:30px;
+    width:150px;
+    border-color: black;
+    transform: translate(0%, 100%);
+    border-radius: 5%;
+}
+
+.seventhow{
+    width:150px;
+    height:30px;
+    border-color: black;
+    transform: translate(0%, 120%);
+    border-radius: 5%;
+}
+
+#submit{
+    height:30px;
+    width: 319px;
+    transform: translate(0px, 43px);
+}
+
+#grade{
+    transform: translate(190px, 55px)
+}
+
+
+#weight{
+    transform: translate(40px, 10px)
+}
+
+#answer{
+    transform:translate(700px, -980px)
+}
+
+#answer-box{
+    border-width:1.5px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    height: 25px;
+    width: 86px;
+    border-style: solid;
+    transform:translate(840px, -972px)
+}
+
+#letter-box{
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+    width: 86px;
+    border-width:1.5px;
+    border-style: solid;
+    border-color: black;
+    transform: translate(700px, -1001px);
+}
+#letter{
+    transform: translate(708px, -1136px);
+}
+#result{
+    transform:translate(848px, -1096px)
+}
+
+#gradeset{
+    transform:translate(0px, 0px)
+}
+
+
+
+#whole{
+    transform: translate(700px, -1050px);
+}
+
+#laughing{
+    transform: translate(850px, -1705px);
+}
+
